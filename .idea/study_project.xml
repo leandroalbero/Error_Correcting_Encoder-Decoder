@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="VERSION" value="16" />
+      <option name="myUserTests">
+        <map />
+      </option>
+      <option name="course">
+        <HyperskillCourse>
+          <option name="authors">
+            <list />
+          </option>
+          <option name="courseMode" value="Study" />
+          <option name="customPresentableName" />
+          <option name="description" value="Errors are inevitable both in life and in the digital world. Errors occur here and there and everywhere, and in this project you will not only imitate this process, but also learn how to cope with errors. It is a chance to experience what early developers had to cope with at the dawn of the computer era. Low-level programming is fun and insightful: try it and you’ll see.&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/58&lt;/a&gt;" />
+          <option name="environment" value="" />
+          <option name="id" value="0" />
+          <option name="index" value="-1" />
+          <option name="language" value="JAVA 11" />
+          <option name="languageCode" value="en" />
+          <option name="name" value="Error Correcting Encoder-Decoder" />
+          <option name="stages">
+            <list>
+              <HyperskillStage>
+                <option name="id" value="312" />
+                <option name="stepId" value="5454" />
+                <option name="title" value="Symbol-level error emulator" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="313" />
+                <option name="stepId" value="5455" />
+                <option name="title" value="Symbol-level correction code" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="314" />
+                <option name="stepId" value="5456" />
+                <option name="title" value="Bit-level error emulator" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="315" />
+                <option name="stepId" value="5457" />
+                <option name="title" value="Bit-level correction code" />
+              </HyperskillStage>
+              <HyperskillStage>
+                <option name="id" value="316" />
+                <option name="stepId" value="5458" />
+                <option name="title" value="Hamming error-correction code" />
+              </HyperskillStage>
+            </list>
+          </option>
+          <option name="taskToTopics">
+            <map>
+              <entry key="0">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="117" />
+                      <option name="theoryId" value="3614" />
+                      <option name="title" value="Introduction to OOP" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="480" />
+                      <option name="theoryId" value="6577" />
+                      <option name="title" value="Command line overview" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="259" />
+                      <option name="theoryId" value="3805" />
+                      <option name="title" value="IDE" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="15" />
+                      <option name="theoryId" value="3500" />
+                      <option name="title" value="Introduction to Java" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="147" />
+                      <option name="theoryId" value="3522" />
+                      <option name="title" value="Basic literals" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="148" />
+                      <option name="theoryId" value="3521" />
+                      <option name="title" value="The first program" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="193" />
+                      <option name="theoryId" value="3749" />
+                      <option name="title" value="Printing data" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="14" />
+                      <option name="theoryId" value="3518" />
+                      <option name="title" value="Types and variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="309" />
+                      <option name="theoryId" value="5035" />
+                      <option name="title" value="Primitive and reference types" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="4" />
+                      <option name="theoryId" value="3511" />
+                      <option name="title" value="Array" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="30" />
+                      <option name="theoryId" value="3520" />
+                      <option name="title" value="Comments" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="112" />
+                      <option name="theoryId" value="3513" />
+                      <option name="title" value="Naming variables" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="146" />
+                      <option name="theoryId" value="3519" />
+                      <option name="title" value="Arithmetic operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="191" />
+                      <option name="theoryId" value="3739" />
+                      <option name="title" value="Write, compile and run" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="149" />
+                      <option name="theoryId" value="3499" />
+                      <option name="title" value="JVM, JRE and JDK" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="192" />
+                      <option name="theoryId" value="3746" />
+                      <option name="title" value="Running programs on your computer" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="113" />
+                      <option name="theoryId" value="3603" />
+                      <option name="title" value="Scanning the input" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="27" />
+                      <option name="theoryId" value="3565" />
+                      <option name="title" value="Integer types and operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="307" />
+                      <option name="theoryId" value="5008" />
+                      <option name="title" value="Increment and decrement" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="31" />
+                      <option name="theoryId" value="3514" />
+                      <option name="title" value="Characters" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="1">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="87" />
+                      <option name="theoryId" value="3516" />
+                      <option name="title" value="Boolean and logical operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="88" />
+                      <option name="theoryId" value="3512" />
+                      <option name="title" value="Relational operators" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="25" />
+                      <option name="theoryId" value="3503" />
+                      <option name="title" value="Conditional statement" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="89" />
+                      <option name="theoryId" value="3505" />
+                      <option name="title" value="The for-loop" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="90" />
+                      <option name="theoryId" value="3498" />
+                      <option name="title" value="The while and do-while loops" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="19" />
+                      <option name="theoryId" value="3507" />
+                      <option name="title" value="Branching statements" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="97" />
+                      <option name="theoryId" value="3602" />
+                      <option name="title" value="Iterating over arrays" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="98" />
+                      <option name="theoryId" value="3551" />
+                      <option name="title" value="Processing strings" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+              <entry key="2">
+                <value>
+                  <list>
+                    <HyperskillTopic>
+                      <option name="id" value="502" />
+                      <option name="theoryId" value="6865" />
+                      <option name="title" value="Units of information" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="362" />
+                      <option name="theoryId" value="5544" />
+                      <option name="title" value="Binary numbers" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="368" />
+                      <option name="theoryId" value="5630" />
+                      <option name="title" value="Binary arithmetic" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="369" />
+                      <option name="theoryId" value="5622" />
+                      <option name="title" value="Converting from binary to decimal" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="370" />
+                      <option name="theoryId" value="5614" />
+                      <option name="title" value="Converting from decimal to binary" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="384" />
+                      <option name="theoryId" value="5745" />
+                      <option name="title" value="1s Complement" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="385" />
+                      <option name="theoryId" value="5753" />
+                      <option name="title" value="2s Complement" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="60" />
+                      <option name="theoryId" value="3497" />
+                      <option name="title" value="What is an exception" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="59" />
+                      <option name="theoryId" value="3570" />
+                      <option name="title" value="Hierarchy of exceptions" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="65" />
+                      <option name="theoryId" value="3552" />
+                      <option name="title" value="Exception handling" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="172" />
+                      <option name="theoryId" value="3635" />
+                      <option name="title" value="Files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="173" />
+                      <option name="theoryId" value="3636" />
+                      <option name="title" value="Reading files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="177" />
+                      <option name="theoryId" value="3652" />
+                      <option name="title" value="Writing files" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="161" />
+                      <option name="theoryId" value="3532" />
+                      <option name="title" value="Sizes and ranges" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="32" />
+                      <option name="theoryId" value="3510" />
+                      <option name="title" value="Type casting" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="163" />
+                      <option name="theoryId" value="3536" />
+                      <option name="title" value="Errors in programs" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="20" />
+                      <option name="theoryId" value="3515" />
+                      <option name="title" value="Bitwise and bit-shift operations" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="94" />
+                      <option name="theoryId" value="3590" />
+                      <option name="title" value="Defining methods" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="7" />
+                      <option name="theoryId" value="3621" />
+                      <option name="title" value="Package" />
+                    </HyperskillTopic>
+                    <HyperskillTopic>
+                      <option name="id" value="17" />
+                      <option name="theoryId" value="3535" />
+                      <option name="title" value="Constructor" />
+                    </HyperskillTopic>
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="updateDate" value="0" />
+          <option name="hyperskillProject">
+            <HyperskillProject>
+              <option name="description" value="Errors are inevitable both in life and in the digital world. Errors occur here and there and everywhere, and in this project you will not only imitate this process, but also learn how to cope with errors. It is a chance to experience what early developers had to cope with at the dawn of the computer era. Low-level programming is fun and insightful: try it and you’ll see." />
+              <option name="id" value="58" />
+              <option name="ideFiles" value="https://stepik.org/media/attachments/lesson/210079/additional_files.json" />
+              <option name="language" value="java" />
+              <option name="templateBased" value="false" />
+              <option name="title" value="Error Correcting Encoder-Decoder" />
+              <option name="useIde" value="true" />
+            </HyperskillProject>
+          </option>
+          <option name="items">
+            <list>
+              <FrameworkLesson>
+                <option name="currentTaskIndex" value="0" />
+                <option name="customPresentableName" />
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="Error Correcting Encoder-Decoder" />
+                <option name="updateDate" value="0" />
+                <option name="unitId" value="0" />
+                <option name="items">
+                  <list>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Wireless connections are everywhere around us. But due to interference, the information is distorted. In this project, you implement a simple algorithm capable of correcting such errors.&lt;/p&gt;&#10;&#10;&lt;p&gt;To correct errors, you must first simulate errors. Wireless communication channel will do it for you, but to check the algorithm such emulator will be useful.&lt;/p&gt;&#10;&#10;&lt;p&gt;In this stage, you should write a program that does errors in the input text, 1 random error per 3 symbols. In this stage, you should write a program that does errors in the input text, 1 random error per 3 symbols. An error means that the character is replaced by another random character. For example, “abc” characters can be “*bc” or “a*c” or “ab*”, where * is a random character. You can replace by any character but recommended to use only uppercase and lowercase English letters, spacebar and numbers.&lt;/p&gt;&#10;&#10;&lt;p&gt;The input contains a single line the text in which you need to make errors. Only one error per 3 symbols!&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;p&gt;Suppose, the input contains the following line:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Very important text&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;br&gt;&#10;    Then the output should be as the following. Of course, your output won't be the same since this is just simulating random errors.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;VeSy QOporlantPt2xt&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;br&gt;&#10;    In this example:&lt;br&gt;&#10;    &lt;code&gt;Ver&lt;/code&gt; turns into &lt;code&gt;VeS&lt;/code&gt;,&lt;br&gt;&#10;    &lt;code&gt;y i&lt;/code&gt; turns into &lt;code&gt;y Q&lt;/code&gt;,&lt;br&gt;&#10;    &lt;code&gt;mpo&lt;/code&gt; turns into &lt;code&gt;Opo&lt;/code&gt;,&lt;br&gt;&#10;    &lt;code&gt;rta&lt;/code&gt; turns into &lt;code&gt;rla&lt;/code&gt;,&lt;br&gt;&#10;    &lt;code&gt;nt &lt;/code&gt; turns into &lt;code&gt;ntP&lt;/code&gt;,&lt;br&gt;&#10;    &lt;code&gt;tex&lt;/code&gt; turns into &lt;code&gt;t2x&lt;/code&gt;,&lt;br&gt;&#10;    &lt;code&gt;t&lt;/code&gt; turns into &lt;code&gt;t&lt;/code&gt;.&lt;/p&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/58/stages/312/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5454" />
+                      <option name="index" value="1" />
+                      <option name="name" value="Symbol-level error emulator" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Failed" />
+                      <option name="files">
+                        <map>
+                          <entry key="src/correcter/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/correcter/Main.java" />
+                                <option name="text" value="package correcter;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello World!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="test/CorrecterTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/CorrecterTest.java" />
+                                <option name="text" value="import correcter.Main;&#10;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;&#10;class TestClue {&#10;    String input;&#10;&#10;    TestClue(String input) {&#10;        this.input = input;&#10;    }&#10;}&#10;&#10;public class CorrecterTest extends BaseStageTest&lt;TestClue&gt; {&#10;&#10;    public CorrecterTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;        TestClue[] testClues = new TestClue[]{&#10;            new TestClue(&quot;Some text to test&quot;),&#10;            new TestClue(&quot;send message to user with id #42354&quot;),&#10;            new TestClue(&quot;thq&quot;)&#10;        };&#10;&#10;        List&lt;TestCase&lt;TestClue&gt;&gt; result = new ArrayList&lt;&gt;();&#10;&#10;        for (int i = 0; i &lt; testClues.length; i++) {&#10;            result.add(new TestCase&lt;TestClue&gt;()&#10;                .setAttach(testClues[i])&#10;                .setInput(testClues[i].input));&#10;        }&#10;&#10;        return result;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;        String cleanedReply = reply.trim().replaceAll(&quot;\\n&quot;, &quot;&quot;);&#10;        return checkMatches(cleanedReply, clue.input);&#10;    }&#10;&#10;    private CheckResult checkMatches(String userOutput,&#10;                                 String correctOutput) {&#10;&#10;        if (userOutput.length() != correctOutput.length()) {&#10;            return new CheckResult(false,&#10;                &quot;Input length and output length should be the same!\n&quot; +&#10;                    &quot;Input length: &quot; + correctOutput.length() +&#10;                    &quot;Output length: &quot; + userOutput.length());&#10;        }&#10;&#10;        for (int i = 0; i &lt; userOutput.length(); i+=3) {&#10;&#10;            int from = i;&#10;            int to = Math.min(i+3, userOutput.length());&#10;&#10;            String currUserPart = userOutput.substring(from, to);&#10;            String currCorrectPart = correctOutput.substring(from, to);&#10;&#10;            if (currUserPart.length() != 3) {&#10;                break;&#10;            }&#10;&#10;            int errors = 0;&#10;&#10;            for (int j = 0; j &lt; currUserPart.length(); j++) {&#10;                if (currUserPart.charAt(j) != currCorrectPart.charAt(j)) {&#10;                    errors++;&#10;                }&#10;            }&#10;&#10;            if (errors != 1) {&#10;                return new CheckResult(false,&#10;                    &quot;One of the triples contain &quot;&#10;                        + errors + &quot; errors, but it should always be 1 error&quot;);&#10;            }&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;}&#10;&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561919411000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Errors are made, but how to correct them?&lt;/p&gt;&#10;&#10;&lt;p&gt;Since we know that the error can be at max every 3 symbols, we can record every symbol 3 times. So, every symbol would be tripled before sending to the internet via a poor connection. Since we have only one error for 3 symbols, in every 3 symbols 2 will necessarily be the same.&lt;/p&gt;&#10;&#10;&lt;p&gt;For example, if the user wants to send this text: &lt;code&gt;&quot;Ab&quot;&lt;/code&gt;, coded text before sending would be: &lt;code&gt;&quot;AAAbbb&quot;&lt;/code&gt;, the text after receiving through poor internet connection would be something like &lt;code&gt;&quot;AsAbb2&quot;&lt;/code&gt; (as in the previous stage), after decoding we can get &lt;code&gt;&quot;Ab&quot;&lt;/code&gt; since the first three symbols contain two A's and the second three symbols contain two b's.&lt;/p&gt;&#10;&#10;&lt;p&gt;In this stage, you should write a program that:&lt;/p&gt;&#10;&#10;&lt;ol&gt;&#10;    &lt;li&gt;Takes a message the user wants ti send. The input contains a single message.&lt;/li&gt;&#10;    &lt;li&gt;Encode the message by tripling all the symbols.&lt;/li&gt;&#10;    &lt;li&gt;Simulate sending this message via a poor internet connection (in other words, simulate errors).&lt;/li&gt;&#10;    &lt;li&gt;Decode it back again.&lt;/li&gt;&#10;&lt;/ol&gt;&#10;&#10;&lt;p&gt;Output the message on every step!&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;p&gt;Suppose, the input contains the following line:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Important&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;br&gt;&#10;    Then the output should be as the following.&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Important&#10;IIImmmpppooorrrtttaaannnttt&#10;I1ImQmOppooT0rruttaJannQ tt&#10;Important&lt;/code&gt;&lt;/pre&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/58/stages/313/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5455" />
+                      <option name="index" value="2" />
+                      <option name="name" value="Symbol-level correction code" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/CorrecterTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/CorrecterTest.java" />
+                                <option name="text" value="import correcter.Main;&#10;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.ArrayList;&#10;import java.util.Arrays;&#10;import java.util.List;&#10;&#10;class TestClue {&#10;    String input;&#10;&#10;    TestClue(String input) {&#10;        this.input = input;&#10;    }&#10;}&#10;&#10;public class CorrecterTest extends BaseStageTest&lt;TestClue&gt; {&#10;&#10;    public CorrecterTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;        TestClue[] testClues = new TestClue[]{&#10;            new TestClue(&quot;Some text to test&quot;),&#10;            new TestClue(&quot;send message to user with id #42354&quot;),&#10;            new TestClue(&quot;thq&quot;)&#10;        };&#10;&#10;        List&lt;TestCase&lt;TestClue&gt;&gt; result = new ArrayList&lt;&gt;();&#10;&#10;        for (int i = 0; i &lt; testClues.length; i++) {&#10;            result.add(new TestCase&lt;TestClue&gt;()&#10;                .setAttach(testClues[i])&#10;                .setInput(testClues[i].input));&#10;        }&#10;&#10;        return result;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;        List&lt;String&gt; splitReply = Arrays.asList(reply.strip().split(&quot;\\n&quot;));&#10;&#10;        if (splitReply.size() != 4) {&#10;            return new CheckResult(false,&#10;                &quot;Your program should output 4 lines, found: &quot; + splitReply.size());&#10;        }&#10;&#10;        String initialLine = splitReply.get(0);&#10;        String stretched = splitReply.get(1);&#10;        String received = splitReply.get(2);&#10;        String decoded = splitReply.get(3);&#10;&#10;&#10;        if (!initialLine.equals(clue.input)) {&#10;            return new CheckResult(false,&#10;                &quot;First line of output should be an input reference!&quot;);&#10;        }&#10;&#10;        if (!stretched.equals(stretchString(initialLine))) {&#10;            return new CheckResult(false,&#10;                &quot;Text before sending is encoded incorrectly!&quot;);&#10;        }&#10;&#10;        if (!decoded.equals(initialLine)) {&#10;            return new CheckResult(false,&#10;                &quot;Decoding result not match required! Make sure the program works correctly!&quot;);&#10;        }&#10;&#10;        return checkMatches(received, stretched);&#10;    }&#10;&#10;    private static String stretchString(String target) {&#10;        char[] resultChars = target.toCharArray();&#10;        char[] result = new char[resultChars.length * 3];&#10;        for (int i = 0; i &lt; result.length; i++) {&#10;            result[i] = resultChars[i / 3];&#10;        }&#10;&#10;        return new String(result);&#10;    }&#10;&#10;    private CheckResult checkMatches(String userOutput,&#10;                                     String correctOutput) {&#10;&#10;        if (userOutput.length() != correctOutput.length()) {&#10;            return new CheckResult(false,&#10;                &quot;Input length and output length should be the same!\n&quot; +&#10;                    &quot;Input length: &quot; + correctOutput.length() +&#10;                    &quot;Output length: &quot; + userOutput.length());&#10;        }&#10;&#10;        for (int i = 0; i &lt; userOutput.length(); i+=3) {&#10;&#10;            int from = i;&#10;            int to = Math.min(i+3, userOutput.length());&#10;&#10;            String currUserPart = userOutput.substring(from, to);&#10;            String currCorrectPart = correctOutput.substring(from, to);&#10;&#10;            if (currUserPart.length() != 3) {&#10;                break;&#10;            }&#10;&#10;            int errors = 0;&#10;&#10;            for (int j = 0; j &lt; currUserPart.length(); j++) {&#10;                if (currUserPart.charAt(j) != currCorrectPart.charAt(j)) {&#10;                    errors++;&#10;                }&#10;            }&#10;&#10;            if (errors != 1) {&#10;                return new CheckResult(false,&#10;                    &quot;One of the triples contain &quot;&#10;                        + errors + &quot; errors, but every triple should always contain 1 error&quot;);&#10;            }&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/correcter/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/correcter/Main.java" />
+                                <option name="text" value="package correcter;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello World!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561919412000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;In real telecommunication, errors occur on a bit level. For this reason, we must learn to work with this. Now, instead of doing one error every three bytes, the program on this stage should make an error in one bit per byte. Now, instead of doing one error every three bytes, the program on this stage should make an error in one bit per byte. So, every byte would be corrupted, but in a small way.&lt;/p&gt;&#10;&#10;&lt;p&gt;For example, let's take the symbol &lt;code&gt;'A'&lt;/code&gt;. In binary, it would be &lt;code&gt;01000001&lt;/code&gt;. Making an error in a single bit of this would get something like &lt;code&gt;01010001&lt;/code&gt; or &lt;code&gt;00000001&lt;/code&gt; or &lt;code&gt;11000001&lt;/code&gt; making it be a completely different symbol, but in binary - very close to the symbol &lt;code&gt;'A'&lt;/code&gt;. By the way, you can see all binary and hexadecimal representations of the standard symbols &lt;a href=&quot;https://www.ascii-code.com&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;&#10;&#10;&lt;p&gt;In this stage, you should write a program that reads the text the user wants to send from the &lt;code&gt;send.txt&lt;/code&gt;, and simulates the sending through a poor internet connection making one-bit errors in every byte of the text. Notice that this text is no longer a string since after manipulations in every byte it may happen to be that some bytes didn't correspond to a specific character in the table because Java does not use ASCII table representation in their String implementation. Java uses UNICODE that happens to match with ASCII in the first 128 symbols, but no further. The String class is too complicated for low-level manipulations so you should use bytes or chars instead.&lt;/p&gt;&#10;&#10;&lt;p&gt;The received message which contains an error in a single bit in every byte should be saved into &lt;code&gt;received.txt&lt;/code&gt;.&lt;/p&gt;&#10;&#10;&lt;p&gt;Also for work with this file in a hex format, you need a &lt;a href=&quot;https://plugins.jetbrains.com/plugin/9339-deltahex-editor&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;DeltaHex Editor&lt;/a&gt; - a plugin for IntelliJ IDEA.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;p&gt;Suppose your send.txt looks like this:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Simple text.&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;br&gt;&#10;    In the hex it should looks like this:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;53 69 6D 70 6C 65 20 74 65 78 74 2E&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;br&gt;&#10;    After the receiving the file recieved.txt can look something like this:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;73 29 69 72 6E 61 A0 64 75 68 76 AE&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;p&gt;&lt;br&gt;&#10;    Which will look like this in a non-hex viewer:&lt;/p&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;s)irna duhv®&lt;/code&gt;&lt;/pre&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/58/stages/314/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5456" />
+                      <option name="index" value="3" />
+                      <option name="name" value="Bit-level error emulator" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/CorrecterTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/CorrecterTest.java" />
+                                <option name="text" value="import correcter.Main;&#10;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.io.*;&#10;import java.util.List;&#10;&#10;class TestClue {&#10;    String input;&#10;&#10;    TestClue(String input) {&#10;        this.input = input;&#10;    }&#10;}&#10;&#10;public class CorrecterTest extends BaseStageTest&lt;TestClue&gt; {&#10;&#10;    public static File received = null;&#10;&#10;    public CorrecterTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;        TestClue firstTestClue = new TestClue(&quot;Eat more of these french buns!&quot;);&#10;        TestClue secondTestClue = new TestClue(&quot;$ome rand0m messAge&quot;);&#10;        TestClue thirdTestClue = new TestClue(&quot;better call Saul 555-00-73!&quot;);&#10;        TestClue sixthTestClue = new TestClue(&quot;5548172 6548 225147 23656595 5155&quot;);&#10;&#10;        return List.of(&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setAttach(firstTestClue)&#10;                .addFile(&quot;send.txt&quot;, firstTestClue.input),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setAttach(secondTestClue)&#10;                .addFile(&quot;send.txt&quot;, secondTestClue.input),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setAttach(thirdTestClue)&#10;                .addFile(&quot;send.txt&quot;, thirdTestClue.input),&#10;&#10;            new TestCase&lt;TestClue&gt;()&#10;                .setAttach(sixthTestClue)&#10;                .addFile(&quot;send.txt&quot;, sixthTestClue.input)&#10;        );&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;        String path = System.getProperty(&quot;user.dir&quot;);&#10;        searchFile(path, &quot;received.txt&quot;);&#10;&#10;        if (received == null) {&#10;            return new CheckResult(false,&#10;                &quot;Can't find received.txt file. &quot; +&#10;                    &quot;Make sure your program writes it down or &quot; +&#10;                    &quot;make sure the name of the file is correct.&quot;);&#10;        }&#10;&#10;        byte[] receivedContent;&#10;&#10;        FileInputStream stream;&#10;        try {&#10;            stream = new FileInputStream(received);&#10;        } catch (FileNotFoundException e) {&#10;            return new CheckResult(false,&#10;                &quot;Can't find received.txt file. &quot; +&#10;                    &quot;Make sure your program writes it down &quot; +&#10;                    &quot;or make sure the name of the file is correct.&quot;);&#10;        }&#10;&#10;        try {&#10;            receivedContent = stream.readAllBytes();&#10;        } catch (IOException e) {&#10;            throw new RuntimeException(&quot;Can't read the file&quot;);&#10;        }&#10;&#10;        String correctBinary = toBinary(clue.input.getBytes());&#10;        String outputBinary = toBinary(receivedContent);&#10;&#10;        return checkMatches(outputBinary, correctBinary);&#10;    }&#10;&#10;    private static String toBinary(byte[] bytes) {&#10;        StringBuilder sb = new StringBuilder(bytes.length * Byte.SIZE);&#10;        for (int i = 0; i &lt; Byte.SIZE * bytes.length; i++) {&#10;            sb.append((bytes[i / Byte.SIZE] &lt;&lt; i % Byte.SIZE &amp; 0x80) == 0 ? '0' : '1');&#10;        }&#10;        return sb.toString();&#10;    }&#10;&#10;    private static byte[] fromBinary(String s) {&#10;        int sLen = s.length();&#10;        byte[] toReturn = new byte[(sLen + Byte.SIZE - 1) / Byte.SIZE];&#10;        char c;&#10;        for (int i = 0; i &lt; sLen; i++)&#10;            if ((c = s.charAt(i)) == '1')&#10;                toReturn[i / Byte.SIZE] = (byte) (toReturn[i / Byte.SIZE] | (0x80 &gt;&gt;&gt; (i % Byte.SIZE)));&#10;            else if (c != '0')&#10;                throw new IllegalArgumentException();&#10;        return toReturn;&#10;    }&#10;&#10;    private CheckResult checkMatches(String output, String correct) {&#10;        if (output.isEmpty() &amp;&amp; correct.isEmpty()) return CheckResult.TRUE;&#10;&#10;        if (output.length() != correct.length()) {&#10;            return new CheckResult(false,&#10;                &quot;The program was expected to output &quot; +&#10;                    correct.length() / 8 +&#10;                    &quot; bytes, but output &quot; +&#10;                    output.length() / 8);&#10;        }&#10;&#10;        for (int i = 0; i &lt; output.length(); i += 8) {&#10;            String currOutputByte = output.substring(i, i+8);&#10;            String currCorrectByte = correct.substring(i, i+8);&#10;&#10;            int difference = 0;&#10;            for (int j = 0; j &lt; currCorrectByte.length(); j++) {&#10;                char currOutputBit = currOutputByte.charAt(j);&#10;                char currCorrectBit = currCorrectByte.charAt(j);&#10;&#10;                if (currCorrectBit != currOutputBit) {&#10;                    difference++;&#10;                }&#10;            }&#10;&#10;            if (difference == 0) {&#10;                return new CheckResult(false,&#10;                    &quot;One of bytes from the input stayed the same but should be changed&quot;);&#10;            }&#10;&#10;            if (difference != 1) {&#10;                return new CheckResult(false,&#10;                    &quot;One of bytes from the input was changes in more than one bit&quot;);&#10;            }&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;&#10;    public static void searchFile(String dirName, String fileName) {&#10;        File dir = new File(dirName);&#10;        File[] list = dir.listFiles();&#10;&#10;        if (list != null) {&#10;            for (File f : list) {&#10;                if (f.isDirectory()) {&#10;                    searchFile(f.getAbsolutePath(), fileName);&#10;                } else if (f.getAbsolutePath().contains(fileName)) {&#10;                    received = f;&#10;                }&#10;            }&#10;        }&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/correcter/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/correcter/Main.java" />
+                                <option name="text" value="package correcter;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello World!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561919413000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;For errors like on the previous stage, simple code from stage 2 doesn't work, because all of 3 symbols will be with errors. Also, we can't write triples of bits like symbols in stage 2, because some triples will be in different bytes. Because of this, 1 triple of bits can contain 2 errors and this triple can't be corrected.&lt;/p&gt;&#10;&#10;&lt;p&gt;For this reason, we need another correcting code. We will write every bit twice, in every byte 2 last bits will be bits of parity. The parity bit is the sum of the data bits modulo 2. In that way, we write 3 input data bits in one byte.&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;&lt;img alt=&quot;&quot; height=&quot;202&quot; src=&quot;https://ucarecdn.com/1145818f-8a0b-4813-afba-0dee9124eb8f/&quot; width=&quot;810&quot;&gt;&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;For decoding, we find a pair with error (where the two bits that are supposed to be similar is, in fact, different after receiving the byte). If the error inside data pairs (first 3 pairs) then you can calculate the real bit which was there before sending using the scheme below. If an error inside a parity bits you should do nothing since data bits are correct.&lt;/p&gt;&#10;&#10;&lt;p&gt;&lt;strong&gt;&lt;img alt=&quot;&quot; height=&quot;160&quot; src=&quot;https://ucarecdn.com/99b748e1-5c6f-44cc-9fdc-b2de36d32939/&quot; width=&quot;680&quot;&gt;&lt;/strong&gt;&lt;/p&gt;&#10;&#10;&lt;p&gt;The program in this stage should work in 2 modes: encode, send and decode.&lt;br&gt;&#10;  &lt;br&gt;&#10;  If the mode is encode then you need to take the text from &lt;code&gt;send.txt&lt;/code&gt;, convert it to ready-to-send form (where you have three significant bits per byte) and save the resulted bytes into the file named &lt;code&gt;encoded.txt&lt;/code&gt;.&lt;/p&gt;&#10;&#10;&lt;p&gt;If the mode is send, you should take the file from &lt;code&gt;encoded.txt&lt;/code&gt; and simulate the errors in its bytes (1 bit per byte) and save the resulted bytes into the file named &lt;code&gt;received.txt&lt;/code&gt;.&lt;/p&gt;&#10;&#10;&lt;p&gt;If the mode is decode, you should take the file from &lt;code&gt;received.txt&lt;/code&gt; and decode it to the normal text. Save the text into the file named &lt;code&gt;decoded.txt&lt;/code&gt;.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Write a mode: encode&#10;&#10;send.txt:&#10;text view: Test&#10;hex view: 54 65 73 74&#10;&#10;encoded.txt:&#10;hex view: CC 00 F0 33 CC F0 3C 3C CC 23 00&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Write a mode: send&#10;&#10;encoded.txt:&#10;hex view: CC 00 F0 33 CC F0 3C 3C CC 23 00&#10;&#10;received.txt:&#10;hex view: C3 C0 10 30 3C FE FC 2C 3C 22 0C&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Write a mode: decode&#10;&#10;received.txt:&#10;hex view: C3 C0 10 30 3C FE FC 2C 3C 22 0C&#10;&#10;decoded.txt:&#10;hex view: 54 65 73 74&#10;text view: Test&lt;/code&gt;&lt;/pre&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/58/stages/315/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5457" />
+                      <option name="index" value="4" />
+                      <option name="name" value="Bit-level correction code" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/CorrecterTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/CorrecterTest.java" />
+                                <option name="text" value="import correcter.Main;&#10;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.io.File;&#10;import java.io.FileInputStream;&#10;import java.io.FileNotFoundException;&#10;import java.io.IOException;&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;&#10;class TestClue {&#10;    String input;&#10;    String fileContent;&#10;&#10;    TestClue(String input, String fileContent) {&#10;        this.input = input;&#10;        this.fileContent = fileContent;&#10;    }&#10;}&#10;&#10;public class CorrecterTest extends BaseStageTest&lt;TestClue&gt; {&#10;&#10;    private static File received = null;&#10;    private static File encoded = null;&#10;    private static File decoded = null;&#10;&#10;    public CorrecterTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;        TestClue[] testClues = new TestClue[] {&#10;            new TestClue(&quot;encode&quot;, &quot;Eat more of these french buns!&quot;),&#10;            new TestClue(&quot;send&quot;,   &quot;Eat more of these french buns!&quot;),&#10;            new TestClue(&quot;decode&quot;, &quot;Eat more of these french buns!&quot;),&#10;&#10;            new TestClue(&quot;encode&quot;, &quot;$ome rand0m messAge&quot;),&#10;            new TestClue(&quot;send&quot;,   &quot;$ome rand0m messAge&quot;),&#10;            new TestClue(&quot;decode&quot;, &quot;$ome rand0m messAge&quot;),&#10;&#10;            new TestClue(&quot;encode&quot;, &quot;better call Saul 555-00-73!&quot;),&#10;            new TestClue(&quot;send&quot;,   &quot;better call Saul 555-00-73!&quot;),&#10;            new TestClue(&quot;decode&quot;, &quot;better call Saul 555-00-73!&quot;),&#10;&#10;            new TestClue(&quot;encode&quot;, &quot;5548172 6548 225147 23656595 5155&quot;),&#10;            new TestClue(&quot;send&quot;,   &quot;5548172 6548 225147 23656595 5155&quot;),&#10;            new TestClue(&quot;decode&quot;, &quot;5548172 6548 225147 23656595 5155&quot;),&#10;        };&#10;&#10;        List&lt;TestCase&lt;TestClue&gt;&gt; result = new ArrayList&lt;&gt;();&#10;&#10;        for (int i = 0; i &lt; testClues.length; i++) {&#10;            result.add(new TestCase&lt;TestClue&gt;()&#10;                .setAttach(testClues[i])&#10;                .setInput(testClues[i].input)&#10;                .addFile(&quot;send.txt&quot;, testClues[i].fileContent));&#10;        }&#10;&#10;        return result;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;        String path = System.getProperty(&quot;user.dir&quot;);&#10;&#10;        received = null;&#10;        encoded = null;&#10;        decoded = null;&#10;&#10;        searchReceived(path, &quot;received.txt&quot;);&#10;        searchEncoded(path, &quot;encoded.txt&quot;);&#10;        searchDecoded(path, &quot;decoded.txt&quot;);&#10;&#10;        String correctFileBinary = toBinary(clue.fileContent.getBytes());&#10;        String correctFileEncoded = encodeFile(correctFileBinary);&#10;&#10;        String action = clue.input;&#10;&#10;        if (action.equals(&quot;encode&quot;)) {&#10;&#10;            if (encoded == null) {&#10;                System.out.println(&quot;here1&quot;);&#10;                return new CheckResult(false,&#10;                    &quot;Can't find encoded.txt file. &quot; +&#10;                        &quot;Make sure your program writes it down or &quot; +&#10;                        &quot;make sure the name of file is correct.&quot;);&#10;            }&#10;&#10;            byte[] encodedContent;&#10;            FileInputStream encodedStream;&#10;&#10;            try {&#10;                encodedStream = new FileInputStream(encoded);&#10;            } catch (FileNotFoundException e) {&#10;                System.out.println(&quot;here2&quot;);&#10;                return new CheckResult(false,&#10;                    &quot;Can't find encoded.txt file. &quot; +&#10;                        &quot;Make sure your program writes it down or &quot; +&#10;                        &quot;make sure the name of file is correct.&quot;);&#10;            }&#10;&#10;            try {&#10;                encodedContent = encodedStream.readAllBytes();&#10;            } catch (IOException e) {&#10;                e.printStackTrace();&#10;                System.out.println(&quot;here3&quot;);&#10;                throw new RuntimeException(&quot;Can't read the file&quot;);&#10;            }&#10;&#10;            String encodedBinary = toBinary(encodedContent);&#10;&#10;            return new CheckResult(encodedBinary.equals(correctFileEncoded));&#10;        }&#10;&#10;        if (action.equals(&quot;send&quot;)) {&#10;&#10;            if (received == null) {&#10;                return new CheckResult(false,&#10;                    &quot;Can't find received.txt file. &quot; +&#10;                        &quot;Make sure your program writes it &quot; +&#10;                        &quot;down or make sure the name of file is correct.&quot;);&#10;            }&#10;&#10;            byte[] receivedContent;&#10;&#10;            FileInputStream receivedStream;&#10;&#10;            try {&#10;                receivedStream = new FileInputStream(received);&#10;            } catch (FileNotFoundException e) {&#10;                return new CheckResult(false,&#10;                    &quot;Can't find received.txt file. &quot; +&#10;                        &quot;Make sure your program writes it down or &quot; +&#10;                        &quot;make sure the name of file is correct.&quot;);&#10;            }&#10;&#10;            try {&#10;                receivedContent = receivedStream.readAllBytes();&#10;            } catch (IOException e) {&#10;                e.printStackTrace();&#10;                throw new RuntimeException(&quot;Can't read the file&quot;);&#10;            }&#10;&#10;            String receivedBinary = toBinary(receivedContent);&#10;&#10;&#10;            return checkDifference(receivedBinary, correctFileEncoded);&#10;        }&#10;&#10;&#10;&#10;        if (action.equals(&quot;decode&quot;)) {&#10;&#10;            if (decoded == null) {&#10;                return new CheckResult(false,&#10;                    &quot;Can't find decoded.txt file. &quot; +&#10;                        &quot;Make sure your program writes it down or &quot; +&#10;                        &quot;make sure the name of file is correct.&quot;);&#10;            }&#10;&#10;            byte[] decodedContent;&#10;&#10;&#10;            FileInputStream decodedStream;&#10;&#10;            try {&#10;                decodedStream = new FileInputStream(decoded);&#10;            } catch (FileNotFoundException e) {&#10;                return new CheckResult(false,&#10;                    &quot;Can't find received.txt file. &quot; +&#10;                        &quot;Make sure your program writes it down or &quot; +&#10;                        &quot;make sure the name of file is correct.&quot;);&#10;            }&#10;&#10;            try {&#10;                decodedContent = decodedStream.readAllBytes();&#10;            } catch (IOException e) {&#10;                e.printStackTrace();&#10;                throw new RuntimeException(&quot;Can't read the file&quot;);&#10;            }&#10;&#10;            String decodedBinary = toBinary(decodedContent);&#10;&#10;            if (!decodedBinary.equals(correctFileBinary)) {&#10;                return new CheckResult(false, &quot;The decoded text must match initial text!&quot;);&#10;            }&#10;&#10;            return CheckResult.TRUE;&#10;        }&#10;&#10;        throw new RuntimeException(&quot;Can't check the program&quot;);&#10;    }&#10;&#10;    private static String toBinary(byte[] bytes) {&#10;        StringBuilder sb = new StringBuilder(bytes.length * Byte.SIZE);&#10;        for (int i = 0; i &lt; Byte.SIZE * bytes.length; i++) {&#10;            sb.append((bytes[i / Byte.SIZE] &lt;&lt; i % Byte.SIZE &amp; 0x80) == 0 ? '0' : '1');&#10;        }&#10;        return sb.toString();&#10;    }&#10;&#10;    private static byte[] fromBinary(String s) {&#10;        int sLen = s.length();&#10;        byte[] toReturn = new byte[(sLen + Byte.SIZE - 1) / Byte.SIZE];&#10;        char c;&#10;        for (int i = 0; i &lt; sLen; i++)&#10;            if ((c = s.charAt(i)) == '1')&#10;                toReturn[i / Byte.SIZE] = (byte) (toReturn[i / Byte.SIZE] | (0x80 &gt;&gt;&gt; (i % Byte.SIZE)));&#10;            else if (c != '0')&#10;                throw new IllegalArgumentException();&#10;        return toReturn;&#10;    }&#10;&#10;    private static void searchReceived(String dirName, String fileName) {&#10;        File dir = new File(dirName);&#10;        File[] list = dir.listFiles();&#10;&#10;        if (list != null) {&#10;            for (File f : list) {&#10;                if (f.isDirectory()) {&#10;                    searchReceived(f.getAbsolutePath(), fileName);&#10;                } else if (f.getAbsolutePath().contains(fileName)) {&#10;                    received = f;&#10;                }&#10;            }&#10;        }&#10;    }&#10;&#10;    private static void searchEncoded(String dirName, String fileName) {&#10;        File dir = new File(dirName);&#10;        File[] list = dir.listFiles();&#10;&#10;        if (list != null) {&#10;            for (File f : list) {&#10;                if (f.isDirectory()) {&#10;                    searchEncoded(f.getAbsolutePath(), fileName);&#10;                } else if (f.getAbsolutePath().contains(fileName)) {&#10;                    encoded = f;&#10;                }&#10;            }&#10;        }&#10;    }&#10;&#10;    private static void searchDecoded(String dirName, String fileName) {&#10;        File dir = new File(dirName);&#10;        File[] list = dir.listFiles();&#10;&#10;        if (list != null) {&#10;            for (File f : list) {&#10;                if (f.isDirectory()) {&#10;                    searchDecoded(f.getAbsolutePath(), fileName);&#10;                } else if (f.getAbsolutePath().contains(fileName)) {&#10;                    decoded = f;&#10;                }&#10;            }&#10;        }&#10;    }&#10;&#10;    private String encodeFile(String binaryString) {&#10;&#10;        String encoded = &quot;&quot;;&#10;&#10;        for (int i = 0; i &lt; binaryString.length(); i += 3) {&#10;&#10;            int startSubIndex = i;&#10;            int stopSubIndex = Math.min(i+3, binaryString.length());&#10;&#10;            String currSub = binaryString.substring(startSubIndex, stopSubIndex);&#10;&#10;            String encodedPart;&#10;&#10;            if (currSub.length() == 3) {&#10;                encodedPart =&#10;                    currSub.substring(0, 1).repeat(2) +&#10;                    currSub.substring(1, 2).repeat(2) +&#10;                    currSub.substring(2, 3).repeat(2);&#10;            } else if (currSub.length() == 2) {&#10;                encodedPart =&#10;                    currSub.substring(0, 1).repeat(2) +&#10;                    currSub.substring(1, 2).repeat(2) + &quot;00&quot;;&#10;            } else if (currSub.length() == 1) {&#10;                encodedPart =&#10;                    currSub.substring(0, 1).repeat(2) + &quot;0000&quot;;&#10;            } else {&#10;                encodedPart = &quot;000000&quot;;&#10;            }&#10;&#10;            int parityCounts = 0;&#10;&#10;            if (encodedPart.charAt(0) == '1') {&#10;                parityCounts++;&#10;            }&#10;&#10;            if (encodedPart.charAt(2) == '1') {&#10;                parityCounts++;&#10;            }&#10;&#10;            if (encodedPart.charAt(4) == '1') {&#10;                parityCounts++;&#10;            }&#10;&#10;            if (parityCounts % 2 == 1) {&#10;                encodedPart += &quot;11&quot;;&#10;            } else {&#10;                encodedPart += &quot;00&quot;;&#10;            }&#10;&#10;            encoded += encodedPart;&#10;        }&#10;&#10;        return encoded;&#10;    }&#10;&#10;    private CheckResult checkDifference(String output, String correct) {&#10;        if (output.isEmpty() &amp;&amp; correct.isEmpty()) return CheckResult.TRUE;&#10;&#10;        if (output.length() != correct.length()) {&#10;            return new CheckResult(false,&#10;                &quot;The program was expected to output &quot; +&#10;                    correct.length() / 8 +&#10;                    &quot; bytes, but output &quot; +&#10;                    output.length() / 8);&#10;        }&#10;&#10;        for (int i = 0; i &lt; output.length(); i += 8) {&#10;            String currOutputByte = output.substring(i, i+8);&#10;            String currCorrectByte = correct.substring(i, i+8);&#10;&#10;            int difference = 0;&#10;            for (int j = 0; j &lt; currCorrectByte.length(); j++) {&#10;                char currOutputBit = currOutputByte.charAt(j);&#10;                char currCorrectBit = currCorrectByte.charAt(j);&#10;&#10;                if (currCorrectBit != currOutputBit) {&#10;                    difference++;&#10;                }&#10;            }&#10;&#10;            if (difference == 0) {&#10;                return new CheckResult(false,&#10;                    &quot;One of bytes from the input stayed the same but should be changed&quot;);&#10;            }&#10;&#10;            if (difference != 1) {&#10;                return new CheckResult(false,&#10;                    &quot;One of bytes from the input was changes in more than one bit&quot;);&#10;            }&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;}&#10;&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/correcter/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/correcter/Main.java" />
+                                <option name="text" value="package correcter;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello World!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561919414000" />
+                    </EduTask>
+                    <EduTask>
+                      <option name="customPresentableName" />
+                      <option name="descriptionFormat" value="HTML" />
+                      <option name="descriptionText" value="&lt;h2 style=&quot;text-align: center;&quot;&gt;Description&lt;/h2&gt;&#10;&#10;&lt;p&gt;Code from the previous stage is work but not effective, because every byte contains only 3 significant bits - all other is just overhead to send the message reliably.&lt;/p&gt;&#10;&#10;&lt;p&gt;In this stage we will use more efficient code - The &lt;strong&gt;Hamming code&lt;/strong&gt;. In this code, every byte contains 4 significant bits and other 4 bits used for the overhead (well, only 3 of them used for the overhead, the last one just unused).&lt;/p&gt;&#10;&#10;&lt;p&gt;To understand this code, you can watch &lt;a href=&quot;https://www.youtube.com/watch?v=373FUw-2U2k&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;this&lt;/a&gt; video.&lt;/p&gt;&#10;&#10;&lt;p&gt;We will use the Hamming code [7,4], i.e. will write 7 bits, 4 of them would be significant bits, 3 of them would be parity bits and the last one would be unused - it should be always set to zero. In the Note that the video showed the Hamming code [12, 8] with 12 bits which contain 8 significant bits. You should create the analogy for the smaller Hamming code (just throw away 9-th to 12-th bits from the video).&lt;/p&gt;&#10;&#10;&lt;p&gt;What to do if the error happened was twice inside a single byte? In our program, it won't happen since you simulate a single error in each byte. But in real life, it definitely can happen. In telecommunications, all messages split into packages. If errors in the package can't be corrected then this package should be retransmitted.&lt;/p&gt;&#10;&#10;&lt;h2 style=&quot;text-align: center;&quot;&gt;Output example&lt;/h2&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Write a mode: encode&#10;&#10;send.txt:&#10;text view: Test&#10;hex view: 54 65 73 74&#10;&#10;encoded.txt:&#10;hex view: CC 00 F0 33 CC F0 3C 3C&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Write a mode: send&#10;&#10;encoded.txt:&#10;hex view: CC 00 F0 33 CC F0 3C 3C&#10;&#10;received.txt:&#10;hex view: C3 C0 10 30 3C FE FC 2C&#10;&lt;/code&gt;&lt;/pre&gt;&#10;&#10;&lt;pre&gt;&lt;code&gt;Write a mode: decode&#10;&#10;received.txt:&#10;hex view: C3 C0 10 30 3C FE FC 2C&#10;&#10;decoded.txt:&#10;hex view: 54 65 73 74&#10;text view: Test&lt;/code&gt;&lt;/pre&gt;&#10;" />
+                      <option name="feedbackLink">
+                        <FeedbackLink>
+                          <option name="link" value="https://hyperskill.org/projects/58/stages/316/implement" />
+                          <option name="type" value="CUSTOM" />
+                        </FeedbackLink>
+                      </option>
+                      <option name="id" value="5458" />
+                      <option name="index" value="5" />
+                      <option name="name" value="Hamming error-correction code" />
+                      <option name="record" value="-1" />
+                      <option name="status" value="Unchecked" />
+                      <option name="files">
+                        <map>
+                          <entry key="test/CorrecterTest.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="test/CorrecterTest.java" />
+                                <option name="text" value="import correcter.Main;&#10;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.io.File;&#10;import java.io.FileInputStream;&#10;import java.io.FileNotFoundException;&#10;import java.io.IOException;&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;&#10;class TestClue {&#10;    String input;&#10;    String fileContent;&#10;&#10;    TestClue(String input, String fileContent) {&#10;        this.input = input;&#10;        this.fileContent = fileContent;&#10;    }&#10;}&#10;&#10;public class CorrecterTest extends BaseStageTest&lt;TestClue&gt; {&#10;&#10;    private static File received = null;&#10;    private static File encoded = null;&#10;    private static File decoded = null;&#10;&#10;    public CorrecterTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;        TestClue[] testClues = new TestClue[]{&#10;            new TestClue(&quot;encode&quot;, &quot;Eat more of these french buns!&quot;),&#10;            new TestClue(&quot;send&quot;,   &quot;Eat more of these french buns!&quot;),&#10;            new TestClue(&quot;decode&quot;, &quot;Eat more of these french buns!&quot;),&#10;&#10;            new TestClue(&quot;encode&quot;, &quot;$ome rand0m messAge&quot;),&#10;            new TestClue(&quot;send&quot;,   &quot;$ome rand0m messAge&quot;),&#10;            new TestClue(&quot;decode&quot;, &quot;$ome rand0m messAge&quot;),&#10;&#10;            new TestClue(&quot;encode&quot;, &quot;better call Saul 555-00-73!&quot;),&#10;            new TestClue(&quot;send&quot;,   &quot;better call Saul 555-00-73!&quot;),&#10;            new TestClue(&quot;decode&quot;, &quot;better call Saul 555-00-73!&quot;),&#10;&#10;            new TestClue(&quot;encode&quot;, &quot;5548172 6548 225147 23656595 5155&quot;),&#10;            new TestClue(&quot;send&quot;,   &quot;5548172 6548 225147 23656595 5155&quot;),&#10;            new TestClue(&quot;decode&quot;, &quot;5548172 6548 225147 23656595 5155&quot;),&#10;        };&#10;&#10;        List&lt;TestCase&lt;TestClue&gt;&gt; result = new ArrayList&lt;&gt;();&#10;&#10;        for (int i = 0; i &lt; testClues.length; i++) {&#10;            result.add(new TestCase&lt;TestClue&gt;()&#10;                .setAttach(testClues[i])&#10;                .setInput(testClues[i].input)&#10;                .addFile(&quot;send.txt&quot;, testClues[i].fileContent));&#10;        }&#10;&#10;        return result;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;        String path = System.getProperty(&quot;user.dir&quot;);&#10;&#10;        received = null;&#10;        encoded = null;&#10;        decoded = null;&#10;&#10;        searchReceived(path, &quot;received.txt&quot;);&#10;        searchEncoded(path, &quot;encoded.txt&quot;);&#10;        searchDecoded(path, &quot;decoded.txt&quot;);&#10;&#10;        String correctFileBinary = toBinary(clue.fileContent.getBytes());&#10;        String correctFileEncoded = encodeFile(correctFileBinary);&#10;&#10;        String action = clue.input;&#10;&#10;        if (action.equals(&quot;encode&quot;)) {&#10;&#10;            if (encoded == null) {&#10;                return new CheckResult(false,&#10;                    &quot;Can't find encoded.txt file. &quot; +&#10;                        &quot;Make sure your program writes it down or &quot; +&#10;                        &quot;make sure the name of file is correct.&quot;);&#10;            }&#10;&#10;            byte[] encodedContent;&#10;            FileInputStream encodedStream;&#10;&#10;            try {&#10;                encodedStream = new FileInputStream(encoded);&#10;            } catch (FileNotFoundException e) {&#10;                return new CheckResult(false,&#10;                    &quot;Can't find received.txt file. &quot; +&#10;                        &quot;Make sure your program writes it down or &quot; +&#10;                        &quot;make sure the name of file is correct.&quot;);&#10;            }&#10;&#10;            try {&#10;                encodedContent = encodedStream.readAllBytes();&#10;            } catch (IOException e) {&#10;                e.printStackTrace();&#10;                throw new RuntimeException(&quot;Can't read the file&quot;);&#10;            }&#10;&#10;            String encodedBinary = toBinary(encodedContent);&#10;&#10;            return new CheckResult(encodedBinary.equals(correctFileEncoded));&#10;        }&#10;&#10;        if (action.equals(&quot;send&quot;)) {&#10;&#10;            if (received == null) {&#10;                return new CheckResult(false,&#10;                    &quot;Can't find received.txt file. &quot; +&#10;                        &quot;Make sure your program writes it &quot; +&#10;                        &quot;down or make sure the name of file is correct.&quot;);&#10;            }&#10;&#10;            byte[] receivedContent;&#10;&#10;            FileInputStream receivedStream;&#10;&#10;            try {&#10;                receivedStream = new FileInputStream(received);&#10;            } catch (FileNotFoundException e) {&#10;                return new CheckResult(false,&#10;                    &quot;Can't find received.txt file. &quot; +&#10;                        &quot;Make sure your program writes it down or &quot; +&#10;                        &quot;make sure the name of file is correct.&quot;);&#10;            }&#10;&#10;            try {&#10;                receivedContent = receivedStream.readAllBytes();&#10;            } catch (IOException e) {&#10;                e.printStackTrace();&#10;                throw new RuntimeException(&quot;Can't read the file&quot;);&#10;            }&#10;&#10;            String receivedBinary = toBinary(receivedContent);&#10;&#10;&#10;            return checkDifference(receivedBinary, correctFileEncoded);&#10;        }&#10;&#10;&#10;&#10;        if (action.equals(&quot;decode&quot;)) {&#10;&#10;            if (decoded == null) {&#10;                return new CheckResult(false,&#10;                    &quot;Can't find decoded.txt file. &quot; +&#10;                        &quot;Make sure your program writes it down or &quot; +&#10;                        &quot;make sure the name of file is correct.&quot;);&#10;            }&#10;&#10;            byte[] decodedContent;&#10;&#10;&#10;            FileInputStream decodedStream;&#10;&#10;            try {&#10;                decodedStream = new FileInputStream(decoded);&#10;            } catch (FileNotFoundException e) {&#10;                return new CheckResult(false,&#10;                    &quot;Can't find received.txt file. &quot; +&#10;                        &quot;Make sure your program writes it down or &quot; +&#10;                        &quot;make sure the name of file is correct.&quot;);&#10;            }&#10;&#10;            try {&#10;                decodedContent = decodedStream.readAllBytes();&#10;            } catch (IOException e) {&#10;                e.printStackTrace();&#10;                throw new RuntimeException(&quot;Can't read the file&quot;);&#10;            }&#10;&#10;            String decodedBinary = toBinary(decodedContent);&#10;&#10;            if (!decodedBinary.equals(correctFileBinary)) {&#10;                return new CheckResult(false, &quot;The decoded text must match initial text!&quot;);&#10;            }&#10;&#10;            return CheckResult.TRUE;&#10;        }&#10;&#10;        throw new RuntimeException(&quot;Can't check the program&quot;);&#10;    }&#10;&#10;    private static String toBinary(byte[] bytes) {&#10;        StringBuilder sb = new StringBuilder(bytes.length * Byte.SIZE);&#10;        for (int i = 0; i &lt; Byte.SIZE * bytes.length; i++) {&#10;            sb.append((bytes[i / Byte.SIZE] &lt;&lt; i % Byte.SIZE &amp; 0x80) == 0 ? '0' : '1');&#10;        }&#10;        return sb.toString();&#10;    }&#10;&#10;    private static byte[] fromBinary(String s) {&#10;        int sLen = s.length();&#10;        byte[] toReturn = new byte[(sLen + Byte.SIZE - 1) / Byte.SIZE];&#10;        char c;&#10;        for (int i = 0; i &lt; sLen; i++)&#10;            if ((c = s.charAt(i)) == '1')&#10;                toReturn[i / Byte.SIZE] = (byte) (toReturn[i / Byte.SIZE] | (0x80 &gt;&gt;&gt; (i % Byte.SIZE)));&#10;            else if (c != '0')&#10;                throw new IllegalArgumentException();&#10;        return toReturn;&#10;    }&#10;&#10;    private static void searchReceived(String dirName, String fileName) {&#10;        File dir = new File(dirName);&#10;        File[] list = dir.listFiles();&#10;&#10;        if (list != null) {&#10;            for (File f : list) {&#10;                if (f.isDirectory()) {&#10;                    searchReceived(f.getAbsolutePath(), fileName);&#10;                } else if (f.getAbsolutePath().contains(fileName)) {&#10;                    received = f;&#10;                }&#10;            }&#10;        }&#10;    }&#10;&#10;    private static void searchEncoded(String dirName, String fileName) {&#10;        File dir = new File(dirName);&#10;        File[] list = dir.listFiles();&#10;&#10;        if (list != null) {&#10;            for (File f : list) {&#10;                if (f.isDirectory()) {&#10;                    searchEncoded(f.getAbsolutePath(), fileName);&#10;                } else if (f.getAbsolutePath().contains(fileName)) {&#10;                    encoded = f;&#10;                }&#10;            }&#10;        }&#10;    }&#10;&#10;    private static void searchDecoded(String dirName, String fileName) {&#10;        File dir = new File(dirName);&#10;        File[] list = dir.listFiles();&#10;&#10;        if (list != null) {&#10;            for (File f : list) {&#10;                if (f.isDirectory()) {&#10;                    searchDecoded(f.getAbsolutePath(), fileName);&#10;                } else if (f.getAbsolutePath().contains(fileName)) {&#10;                    decoded = f;&#10;                }&#10;            }&#10;        }&#10;    }&#10;&#10;    private String encodeFile(String binaryString) {&#10;&#10;        String encoded = &quot;&quot;;&#10;&#10;        for (int i = 0; i &lt; binaryString.length(); i += 4) {&#10;&#10;            if (i + 4 &gt; binaryString.length()) {&#10;                throw new RuntimeException(&quot;Can't decode binary data&quot;);&#10;            }&#10;&#10;            int startSubIndex = i;&#10;            int stopSubIndex = i + 4;&#10;&#10;            String currSub = binaryString.substring(startSubIndex, stopSubIndex);&#10;&#10;            String encodedPart;&#10;&#10;            int parityBit1 = 0;&#10;            int parityBit2 = 0;&#10;            int parityBit4 = 0;&#10;&#10;            if (currSub.charAt(0) == '1') {&#10;                parityBit1++;&#10;                parityBit2++;&#10;            }&#10;&#10;            if (currSub.charAt(1) == '1') {&#10;                parityBit1++;&#10;                parityBit4++;&#10;            }&#10;&#10;            if (currSub.charAt(2) == '1') {&#10;                parityBit2++;&#10;                parityBit4++;&#10;            }&#10;&#10;            if (currSub.charAt(3) == '1') {&#10;                parityBit1++;&#10;                parityBit2++;&#10;                parityBit4++;&#10;            }&#10;&#10;            encodedPart =&#10;                (parityBit1 % 2 == 1? &quot;1&quot;: &quot;0&quot;) +&#10;                (parityBit2 % 2 == 1? &quot;1&quot;: &quot;0&quot;) +&#10;                currSub.charAt(0) +&#10;                (parityBit4 % 2 == 1? &quot;1&quot;: &quot;0&quot;) +&#10;                currSub.charAt(1) +&#10;                currSub.charAt(2) +&#10;                currSub.charAt(3) +&#10;                &quot;0&quot;;&#10;&#10;            encoded += encodedPart;&#10;        }&#10;&#10;        return encoded;&#10;    }&#10;&#10;    private CheckResult checkDifference(String output, String correct) {&#10;        if (output.isEmpty() &amp;&amp; correct.isEmpty()) return CheckResult.TRUE;&#10;&#10;        if (output.length() != correct.length()) {&#10;            return new CheckResult(false,&#10;                &quot;The program was expected to output &quot; +&#10;                    correct.length() / 8 +&#10;                    &quot; bytes, but output &quot; +&#10;                    output.length() / 8);&#10;        }&#10;&#10;        for (int i = 0; i &lt; output.length(); i += 8) {&#10;            String currOutputByte = output.substring(i, i+8);&#10;            String currCorrectByte = correct.substring(i, i+8);&#10;&#10;            int difference = 0;&#10;            for (int j = 0; j &lt; currCorrectByte.length(); j++) {&#10;                char currOutputBit = currOutputByte.charAt(j);&#10;                char currCorrectBit = currCorrectByte.charAt(j);&#10;&#10;                if (currCorrectBit != currOutputBit) {&#10;                    difference++;&#10;                }&#10;            }&#10;&#10;            if (difference == 0) {&#10;                return new CheckResult(false,&#10;                    &quot;One of bytes from the input stayed the same but should be changed&quot;);&#10;            }&#10;&#10;            if (difference != 1) {&#10;                return new CheckResult(false,&#10;                    &quot;One of bytes from the input was changes in more than one bit&quot;);&#10;            }&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;}&#10;&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/correcter/Main.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="false" />
+                                <option name="name" value="src/correcter/Main.java" />
+                                <option name="text" value="package correcter;&#10;&#10;public class Main {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;Hello World!&quot;);&#10;    }&#10;}&#10;" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                      <option name="updateDate" value="1561919415000" />
+                    </EduTask>
+                  </list>
+                </option>
+              </FrameworkLesson>
+            </list>
+          </option>
+        </HyperskillCourse>
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>
