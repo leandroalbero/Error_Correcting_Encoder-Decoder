@@ -348,7 +348,7 @@
                       <option name="id" value="5454" />
                       <option name="index" value="1" />
                       <option name="name" value="Symbol-level error emulator" />
-                      <option name="record" value="-1" />
+                      <option name="record" value="1" />
                       <option name="status" value="Failed" />
                       <option name="files">
                         <map>
@@ -372,7 +372,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="test/CorrecterTest.java" />
                                 <option name="text" value="import correcter.Main;&#10;&#10;import org.hyperskill.hstest.v5.testcase.CheckResult;&#10;import org.hyperskill.hstest.v5.stage.BaseStageTest;&#10;import org.hyperskill.hstest.v5.testcase.TestCase;&#10;&#10;import java.util.ArrayList;&#10;import java.util.List;&#10;&#10;class TestClue {&#10;    String input;&#10;&#10;    TestClue(String input) {&#10;        this.input = input;&#10;    }&#10;}&#10;&#10;public class CorrecterTest extends BaseStageTest&lt;TestClue&gt; {&#10;&#10;    public CorrecterTest() throws Exception {&#10;        super(Main.class);&#10;    }&#10;&#10;    @Override&#10;    public List&lt;TestCase&lt;TestClue&gt;&gt; generate() {&#10;        TestClue[] testClues = new TestClue[]{&#10;            new TestClue(&quot;Some text to test&quot;),&#10;            new TestClue(&quot;send message to user with id #42354&quot;),&#10;            new TestClue(&quot;thq&quot;)&#10;        };&#10;&#10;        List&lt;TestCase&lt;TestClue&gt;&gt; result = new ArrayList&lt;&gt;();&#10;&#10;        for (int i = 0; i &lt; testClues.length; i++) {&#10;            result.add(new TestCase&lt;TestClue&gt;()&#10;                .setAttach(testClues[i])&#10;                .setInput(testClues[i].input));&#10;        }&#10;&#10;        return result;&#10;    }&#10;&#10;    @Override&#10;    public CheckResult check(String reply, TestClue clue) {&#10;        String cleanedReply = reply.trim().replaceAll(&quot;\\n&quot;, &quot;&quot;);&#10;        return checkMatches(cleanedReply, clue.input);&#10;    }&#10;&#10;    private CheckResult checkMatches(String userOutput,&#10;                                 String correctOutput) {&#10;&#10;        if (userOutput.length() != correctOutput.length()) {&#10;            return new CheckResult(false,&#10;                &quot;Input length and output length should be the same!\n&quot; +&#10;                    &quot;Input length: &quot; + correctOutput.length() +&#10;                    &quot;Output length: &quot; + userOutput.length());&#10;        }&#10;&#10;        for (int i = 0; i &lt; userOutput.length(); i+=3) {&#10;&#10;            int from = i;&#10;            int to = Math.min(i+3, userOutput.length());&#10;&#10;            String currUserPart = userOutput.substring(from, to);&#10;            String currCorrectPart = correctOutput.substring(from, to);&#10;&#10;            if (currUserPart.length() != 3) {&#10;                break;&#10;            }&#10;&#10;            int errors = 0;&#10;&#10;            for (int j = 0; j &lt; currUserPart.length(); j++) {&#10;                if (currUserPart.charAt(j) != currCorrectPart.charAt(j)) {&#10;                    errors++;&#10;                }&#10;            }&#10;&#10;            if (errors != 1) {&#10;                return new CheckResult(false,&#10;                    &quot;One of the triples contain &quot;&#10;                        + errors + &quot; errors, but it should always be 1 error&quot;);&#10;            }&#10;        }&#10;&#10;        return CheckResult.TRUE;&#10;    }&#10;}&#10;&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -397,8 +397,8 @@
                       <option name="id" value="5455" />
                       <option name="index" value="2" />
                       <option name="name" value="Symbol-level correction code" />
-                      <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="record" value="2" />
+                      <option name="status" value="Failed" />
                       <option name="files">
                         <map>
                           <entry key="test/CorrecterTest.java">

@@ -30,7 +30,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         char[] input = sc.nextLine().toCharArray();
-        //System.out.println(input);
+        System.out.println(input);
         System.out.println(triple(input));
         char[] scrambled = scram(triple(input));
         System.out.println(scrambled);
