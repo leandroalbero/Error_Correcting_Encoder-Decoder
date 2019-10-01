@@ -447,7 +447,7 @@
                       <option name="index" value="3" />
                       <option name="name" value="Bit-level error emulator" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Failed" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="test/CorrecterTest.java">
@@ -478,28 +478,14 @@
                               </TaskFile>
                             </value>
                           </entry>
-                          <entry key="src/correcter/send.txt">
+                          <entry key="received.txt">
                             <value>
                               <TaskFile>
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
                                 <option name="highlightErrors" value="true" />
-                                <option name="name" value="src/correcter/send.txt" />
-                                <option name="text" value="" />
-                                <option name="trackChanges" value="true" />
-                                <option name="visible" value="true" />
-                              </TaskFile>
-                            </value>
-                          </entry>
-                          <entry key="src/correcter/received.txt">
-                            <value>
-                              <TaskFile>
-                                <option name="answerPlaceholders">
-                                  <list />
-                                </option>
-                                <option name="highlightErrors" value="true" />
-                                <option name="name" value="src/correcter/received.txt" />
+                                <option name="name" value="received.txt" />
                                 <option name="text" value="" />
                                 <option name="trackChanges" value="true" />
                                 <option name="visible" value="true" />
